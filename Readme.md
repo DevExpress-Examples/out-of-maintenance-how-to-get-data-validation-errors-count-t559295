@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomCommandFactoryService.cs](./CS/DXApplication15/CustomCommandFactoryService.cs) (VB: [CustomCommandFactoryService.vb](./VB/DXApplication15/CustomCommandFactoryService.vb))
+* [Form1.cs](./CS/DXApplication15/Form1.cs) (VB: [Form1.vb](./VB/DXApplication15/Form1.vb))
+* [Program.cs](./CS/DXApplication15/Program.cs) (VB: [Program.vb](./VB/DXApplication15/Program.vb))
+<!-- default file list end -->
 # How to get data validation errors count
 
 
